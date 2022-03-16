@@ -42,7 +42,17 @@ SELECT<br>
  CONCAT(column_name1, column_name2)<br>
 FROM<br>
  table<br>
-The "CONCAT()" command adds stings together to create new text strings that can be used as unique keys
+The "CONCAT()" command adds stings together to create new text strings that can be used as unique keys.
+
+##### Cleaning Misspelt Strings
+SELECT<br>
+ CASE<br>
+  WHEN column_name = 'wrong_value' THEN 'correct_value'<br>
+  ELSE column_name<br>
+  END AS cleaned_name<br>
+FROM<br>
+ table<br>
+The "CASE" statement goes through one or more conditions and returns a value as soon as a condition is met.
 
 
 #### Cleaning Integer Variables
