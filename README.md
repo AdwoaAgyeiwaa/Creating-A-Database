@@ -1,2 +1,6 @@
 # Creating-A-Database
-In this project, we'll go over database management fundamentals and SQL using the MySQL Relational Database Management System
+Hello:hand:,<br>
+In this project, we will build a database from the ground up using the lessons we learned from the "Beginner-SQL-Codes" repository.<br>
+Are you ready???<br><br>
+
+DISCLAIMER: I AM A NOVICE IN SQL PROGRAMMING. I AM JUST SHARING MY JOURNEY WITH YOU:smiley:
